@@ -1,6 +1,6 @@
 {
   "name": "npm-ismarslomic-helloworld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Hello Worl Example",
   "main": "index.js",
   "scripts": {
