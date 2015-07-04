@@ -1,0 +1,11 @@
+{
+  "name": "npm-ismarslomic-helloworld",
+  "version": "1.0.0",
+  "description": "NPM Hello Worl Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ismar Slomic <ismar@slomic.no>",
+  "license": "ISC"
+}
