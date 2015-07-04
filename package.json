@@ -8,6 +8,11 @@
   },
   "author": "Ismar Slomic <ismar@slomic.no>",
   "license": "ISC",
+  "keywords": [
+    "npm",
+    "hello-world"
+  ],
+  "bugs": "https://github.com/ismarslomic/npm-ismarslomic-helloworld",
   "repository": {
     "type": "git",
     "url": "https://github.com/ismarslomic/npm-ismarslomic-helloworld"
